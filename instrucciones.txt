@@ -1,0 +1,17 @@
+Se juega como el domino ordinario 
+pero teniendo un conociemiento
+minimo en el algebra, por ejemplo
+se trata de resolver ecuaciones
+lineales sencillas. Un ejemplo muy 
+simple es 2x = 4, simplemente
+lo que se debe de hacer es despejar la
+variable x para sacar el verdadero valor 
+de la ecuacion. En este juego simplemente
+se debe de conectar una ficha que contenga la 
+solucion de la ecuacion o una ecuacion
+equivalente.
+Cada jugador tendrá 30 segundos para resolver
+y conectar su ficha, en dado caso de no saber
+la respuesta al terminados los 30 segundos
+el jugador cederá su turno al siguiente
+jugador.

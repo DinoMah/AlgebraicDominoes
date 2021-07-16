@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1466796215 source:c:\users\lucas slax\documents\proyetos\dominos algebraicos\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"Funciones.h"
+
+1466796124 c:\users\lucas slax\documents\proyetos\dominos algebraicos\funciones.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<fstream>
+
